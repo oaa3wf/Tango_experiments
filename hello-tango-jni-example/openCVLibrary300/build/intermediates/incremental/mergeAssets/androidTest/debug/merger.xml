@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/home/sastrygrp/Documents/tango-examples-c-master/hello-tango-jni-example/openCVLibrary300/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/sastrygrp/Documents/tango-examples-c-master/hello-tango-jni-example/openCVLibrary300/src/androidTest/assets"/></dataSet></merger>

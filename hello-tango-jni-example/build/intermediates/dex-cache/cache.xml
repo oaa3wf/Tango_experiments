@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sastrygrp/Documents/tango-examples-c-master/hello-tango-jni-example/app/build/intermediates/exploded-aar/hello-tango-jni-example/openCVLibrary300/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bda0de78324ae637b4d61a88e3ffe9ddc7b9fcf">
+        <dex dex="/home/sastrygrp/Documents/tango-examples-c-master/hello-tango-jni-example/app/build/intermediates/pre-dexed/debug/classes-c70cec4beeb8e312a3c3f6ac4c43f65f4dd038e7.jar" />
+    </item>
+
+</items>
